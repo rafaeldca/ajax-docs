@@ -40,13 +40,13 @@ Deletes the contents of the row at the provided index and shifts the remaining c
 
 ### get_columnWidth
 
-Gets or sets the width of the column at the given index.
+Gets the width of the column at the given index.
 
 #### Parameters 
 
 #### Returns
 
-`None`
+`Number`
 
 ### get_frozenColumns
 
